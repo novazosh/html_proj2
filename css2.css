@@ -1,0 +1,58 @@
+body {
+	background-color:#cec4b3;
+}
+div.t {
+	font-size: 500%;
+	font-family: arial;
+	background-color: brown;
+	Color:tan;
+} 
+div.shrink {
+	text-align:center;
+	font-size: 80%;
+	
+}
+.pad {
+	padding:10px;
+}
+span.small {
+	font-size: 80%;
+	text-decoration: italic;
+}
+div.tb{
+	border: 1px dashed tan;
+	background-color: #f9e8ca;	
+}
+div.container {
+	background-color:#ede9ce;
+	padding: 20px;
+	border: 6px dashed;
+	border-color:brown;
+}
+.change {
+	font-weight: bold;
+}
+div.pad {
+	padding:3px;
+	color:white;
+	background-color:#822121;
+}
+div.bl {
+	color:#e8d58d;
+	background-color:#35437a;
+	text-align: center;
+}
+span.small {
+	color: #661e05;
+}
+div.h {
+	padding: 4px;
+	background-color:#c6b5af;
+}
+img {
+	max-width: 96%;
+	height: auto;
+	padding: 3px 2px 3px 2px;
+}
+
+	

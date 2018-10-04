@@ -1,0 +1,108 @@
+h1{
+	font-family: "Trebuchet MS", arial, sans-serif;
+	font-size: 3.5em; 
+	font-variant: small-caps;
+}
+h2 {
+	font-family: "Trebuchet MS", arial, sans-serif;
+	font-size: 2.0em;
+	font-variant: small-caps;
+}
+h3 {
+	font-family: "Trebuchet MS", arial, sans-serif;
+	font-size: 1.5em;
+	font-variant: small-caps;
+	margin-top: 6px;
+}
+	
+div {
+	font-family: "Trebuchet MS", arial, sans-serif;
+	font-size: 18px;
+}
+div.row { 
+	margin-left:4px;
+	margin-right: 4px;
+	align-content: center;
+}
+div.nav {
+	text-align: center;
+}
+div.sub {
+	border:none;
+	background-image: url("images/trees.jpg");
+	background-repeat: no-repeat;
+	padding: 20px 10px 5px 10px;
+	margin: 5px 0px 5px 0px;
+	color: black;
+}
+div.columns {
+	margin: 4px 4px 4px 4px;
+	padding: 4px 7px 4px 4px;
+}
+div.break {
+	border:solid 1px;
+	border-color: #678;
+	background-color: #678;
+	padding:7px;
+}
+div.p2 {
+	margin: 15px 0px 6px 0px;
+}
+div.side {
+	background-color:#B2C3D7;
+}
+div.two {
+	background-color: #678;
+	color: white;
+	margin-top: 5px;
+	font-size: 15;
+}
+embed{
+	max-width:100%;
+}
+img {
+	max-width:100%;
+	height:auto;
+	margin: 1px 2px 2px 0px;
+}
+div.container{
+	margin:0px 2px 0px 2px;
+	width: 98%;
+}
+a:link {
+	color: #6E665E;
+	text-decoration: none;
+}
+a:visited {
+	color: #405365;
+	text-decoration: none;
+}
+a:hover {
+	color: #90908B;
+	text-decoration: bold;
+}
+a:active {
+	color: #C2C0A7;
+	text-decoration: italic;
+}
+button {
+	display: inline-block;
+	background-color: #c5c8c9;
+	border: none;
+	padding: 5px 30px 5px 30px;
+	text-align: center;
+	border-radius: 12 px;
+	margin: 2px 1px 2px 1px;
+}
+button:hover {
+	background-color: #a9ccd8;
+	transition: 0.6s;
+}
+button.return {
+	width:100%;
+}
+body {
+	background-color:DEDBC3;
+}
+	
+	

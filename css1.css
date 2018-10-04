@@ -1,0 +1,35 @@
+table {
+	border-width: thin;
+	border-color: black;
+	border-style: solid;
+	border-collapse: collapse;
+	width: 80%;
+}
+th, td{
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	border-width: thin;
+	border-color: purple;
+	border-style: solid;
+	padding: 5px;
+}
+.tablehead {
+	background-color: black;
+	color: white;
+}
+.r {
+	background-color: red;
+	color: white;
+}
+.bl {
+	background-color: black;
+}
+.bot {
+	background-color: #F498EF;
+}
+h2 {
+	font-family: "Arial Black", "Arial Bold";
+	font-size: 18px;
+	font-style: normal;
+	
+
